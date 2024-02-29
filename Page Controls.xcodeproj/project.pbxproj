@@ -13,6 +13,22 @@
 		1A3F63182B4E9CD90005BA82 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A3F63162B4E9CD90005BA82 /* Main.storyboard */; };
 		1A3F631A2B4E9CDA0005BA82 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A3F63192B4E9CDA0005BA82 /* Assets.xcassets */; };
 		1A3F631D2B4E9CDA0005BA82 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A3F631B2B4E9CDA0005BA82 /* LaunchScreen.storyboard */; };
+		1A3F63352B4E9D050005BA82 /* ScaleDrawer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F63252B4E9D050005BA82 /* ScaleDrawer.swift */; };
+		1A3F63362B4E9D050005BA82 /* WormDrawer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F63262B4E9D050005BA82 /* WormDrawer.swift */; };
+		1A3F63372B4E9D050005BA82 /* SlideDrawer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F63272B4E9D050005BA82 /* SlideDrawer.swift */; };
+		1A3F63382B4E9D050005BA82 /* InfiniteScrollingDrawer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F63282B4E9D050005BA82 /* InfiniteScrollingDrawer.swift */; };
+		1A3F63392B4E9D050005BA82 /* DropDrawer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F63292B4E9D050005BA82 /* DropDrawer.swift */; };
+		1A3F633A2B4E9D050005BA82 /* ThinWormHeadsDrawer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F632A2B4E9D050005BA82 /* ThinWormHeadsDrawer.swift */; };
+		1A3F633B2B4E9D050005BA82 /* DrawerProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F632B2B4E9D050005BA82 /* DrawerProtocol.swift */; };
+		1A3F633C2B4E9D050005BA82 /* SwapDrawer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F632C2B4E9D050005BA82 /* SwapDrawer.swift */; };
+		1A3F633D2B4E9D050005BA82 /* ColorBlendDrawer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F632D2B4E9D050005BA82 /* ColorBlendDrawer.swift */; };
+		1A3F633E2B4E9D050005BA82 /* JumpDrawer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F632E2B4E9D050005BA82 /* JumpDrawer.swift */; };
+		1A3F633F2B4E9D050005BA82 /* ScrollingDrawer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F632F2B4E9D050005BA82 /* ScrollingDrawer.swift */; };
+		1A3F63402B4E9D050005BA82 /* InfiniteDrawer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F63302B4E9D050005BA82 /* InfiniteDrawer.swift */; };
+		1A3F63412B4E9D050005BA82 /* ExtendedDotDrawer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F63312B4E9D050005BA82 /* ExtendedDotDrawer.swift */; };
+		1A3F63422B4E9D050005BA82 /* ThinWormDrawer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F63322B4E9D050005BA82 /* ThinWormDrawer.swift */; };
+		1A3F63432B4E9D050005BA82 /* AdvancedPageControlView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F63332B4E9D050005BA82 /* AdvancedPageControlView.swift */; };
+		1A3F63442B4E9D050005BA82 /* ColorUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A3F63342B4E9D050005BA82 /* ColorUtils.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +40,22 @@
 		1A3F63192B4E9CDA0005BA82 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1A3F631C2B4E9CDA0005BA82 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1A3F631E2B4E9CDA0005BA82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A3F63252B4E9D050005BA82 /* ScaleDrawer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScaleDrawer.swift; sourceTree = "<group>"; };
+		1A3F63262B4E9D050005BA82 /* WormDrawer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WormDrawer.swift; sourceTree = "<group>"; };
+		1A3F63272B4E9D050005BA82 /* SlideDrawer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SlideDrawer.swift; sourceTree = "<group>"; };
+		1A3F63282B4E9D050005BA82 /* InfiniteScrollingDrawer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfiniteScrollingDrawer.swift; sourceTree = "<group>"; };
+		1A3F63292B4E9D050005BA82 /* DropDrawer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DropDrawer.swift; sourceTree = "<group>"; };
+		1A3F632A2B4E9D050005BA82 /* ThinWormHeadsDrawer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThinWormHeadsDrawer.swift; sourceTree = "<group>"; };
+		1A3F632B2B4E9D050005BA82 /* DrawerProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawerProtocol.swift; sourceTree = "<group>"; };
+		1A3F632C2B4E9D050005BA82 /* SwapDrawer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwapDrawer.swift; sourceTree = "<group>"; };
+		1A3F632D2B4E9D050005BA82 /* ColorBlendDrawer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorBlendDrawer.swift; sourceTree = "<group>"; };
+		1A3F632E2B4E9D050005BA82 /* JumpDrawer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JumpDrawer.swift; sourceTree = "<group>"; };
+		1A3F632F2B4E9D050005BA82 /* ScrollingDrawer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrollingDrawer.swift; sourceTree = "<group>"; };
+		1A3F63302B4E9D050005BA82 /* InfiniteDrawer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfiniteDrawer.swift; sourceTree = "<group>"; };
+		1A3F63312B4E9D050005BA82 /* ExtendedDotDrawer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExtendedDotDrawer.swift; sourceTree = "<group>"; };
+		1A3F63322B4E9D050005BA82 /* ThinWormDrawer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThinWormDrawer.swift; sourceTree = "<group>"; };
+		1A3F63332B4E9D050005BA82 /* AdvancedPageControlView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdvancedPageControlView.swift; sourceTree = "<group>"; };
+		1A3F63342B4E9D050005BA82 /* ColorUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorUtils.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,12 +91,44 @@
 				1A3F63102B4E9CD90005BA82 /* AppDelegate.swift */,
 				1A3F63122B4E9CD90005BA82 /* SceneDelegate.swift */,
 				1A3F63142B4E9CD90005BA82 /* ViewController.swift */,
+				1A3F63452B4E9D430005BA82 /* AdvancedPageControl */,
 				1A3F63162B4E9CD90005BA82 /* Main.storyboard */,
 				1A3F63192B4E9CDA0005BA82 /* Assets.xcassets */,
 				1A3F631B2B4E9CDA0005BA82 /* LaunchScreen.storyboard */,
 				1A3F631E2B4E9CDA0005BA82 /* Info.plist */,
 			);
 			path = "Page Controls";
+			sourceTree = "<group>";
+		};
+		1A3F63242B4E9D050005BA82 /* Drawers */ = {
+			isa = PBXGroup;
+			children = (
+				1A3F63252B4E9D050005BA82 /* ScaleDrawer.swift */,
+				1A3F63262B4E9D050005BA82 /* WormDrawer.swift */,
+				1A3F63272B4E9D050005BA82 /* SlideDrawer.swift */,
+				1A3F63282B4E9D050005BA82 /* InfiniteScrollingDrawer.swift */,
+				1A3F63292B4E9D050005BA82 /* DropDrawer.swift */,
+				1A3F632A2B4E9D050005BA82 /* ThinWormHeadsDrawer.swift */,
+				1A3F632B2B4E9D050005BA82 /* DrawerProtocol.swift */,
+				1A3F632C2B4E9D050005BA82 /* SwapDrawer.swift */,
+				1A3F632D2B4E9D050005BA82 /* ColorBlendDrawer.swift */,
+				1A3F632E2B4E9D050005BA82 /* JumpDrawer.swift */,
+				1A3F632F2B4E9D050005BA82 /* ScrollingDrawer.swift */,
+				1A3F63302B4E9D050005BA82 /* InfiniteDrawer.swift */,
+				1A3F63312B4E9D050005BA82 /* ExtendedDotDrawer.swift */,
+				1A3F63322B4E9D050005BA82 /* ThinWormDrawer.swift */,
+			);
+			path = Drawers;
+			sourceTree = "<group>";
+		};
+		1A3F63452B4E9D430005BA82 /* AdvancedPageControl */ = {
+			isa = PBXGroup;
+			children = (
+				1A3F63332B4E9D050005BA82 /* AdvancedPageControlView.swift */,
+				1A3F63342B4E9D050005BA82 /* ColorUtils.swift */,
+				1A3F63242B4E9D050005BA82 /* Drawers */,
+			);
+			name = AdvancedPageControl;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,8 +203,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A3F63152B4E9CD90005BA82 /* ViewController.swift in Sources */,
+				1A3F63442B4E9D050005BA82 /* ColorUtils.swift in Sources */,
+				1A3F633C2B4E9D050005BA82 /* SwapDrawer.swift in Sources */,
+				1A3F63352B4E9D050005BA82 /* ScaleDrawer.swift in Sources */,
+				1A3F63362B4E9D050005BA82 /* WormDrawer.swift in Sources */,
+				1A3F633E2B4E9D050005BA82 /* JumpDrawer.swift in Sources */,
+				1A3F63422B4E9D050005BA82 /* ThinWormDrawer.swift in Sources */,
+				1A3F63382B4E9D050005BA82 /* InfiniteScrollingDrawer.swift in Sources */,
+				1A3F633F2B4E9D050005BA82 /* ScrollingDrawer.swift in Sources */,
+				1A3F633B2B4E9D050005BA82 /* DrawerProtocol.swift in Sources */,
 				1A3F63112B4E9CD90005BA82 /* AppDelegate.swift in Sources */,
+				1A3F63402B4E9D050005BA82 /* InfiniteDrawer.swift in Sources */,
+				1A3F63392B4E9D050005BA82 /* DropDrawer.swift in Sources */,
+				1A3F63372B4E9D050005BA82 /* SlideDrawer.swift in Sources */,
+				1A3F63432B4E9D050005BA82 /* AdvancedPageControlView.swift in Sources */,
+				1A3F633A2B4E9D050005BA82 /* ThinWormHeadsDrawer.swift in Sources */,
+				1A3F633D2B4E9D050005BA82 /* ColorBlendDrawer.swift in Sources */,
 				1A3F63132B4E9CD90005BA82 /* SceneDelegate.swift in Sources */,
+				1A3F63412B4E9D050005BA82 /* ExtendedDotDrawer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
